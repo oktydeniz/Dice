@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Zar</string>
+    <string name="zar_at">Zar At</string>
+    <string name="kalan_hak">Kalan Hak :</string>
+    <string name="kalan_sure">Kalan Süre :</string>
+    <string name="yeniden_oyna">Yeniden Oyna</string>
+    <string name="toplam">Toplam : </string>
+</resources>
